@@ -40,33 +40,6 @@
             "maintainer_name": "Paras Dhiman"
         }
     ],
-    "jasmine_sprout": [{
-            "device_name": "Xiaomi Mi A2",
-            "variant": "vanilla",
-            "filename": "LegionOS-v3.7-jasmine_sprout-20210323-OFFICIAL-VANILLA.zip",
-            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/jasmine_sprout\/LegionOS-v3.7-jasmine_sprout-20210323-OFFICIAL-VANILLA.zip\/download",
-            "timestamp": "1616445676",
-            "md5sum": "67d4b8110e267e88ede99d976248186f",
-            "size": 870656009,
-            "version": "3.7",
-            "romtype": "OFFICIAL",
-            "changelog": "https://github.com/legionos-devices/OTA/blob/11/jasmine_sprout/changelogs_vanilla.txt",
-            "maintainer_name": "Immanuel Raj"
-        },
-        {
-            "device_name": "Xiaomi Mi A2",
-            "variant": "gapps",
-            "filename": "LegionOS-v3.7-jasmine_sprout-20210322-OFFICIAL-GAPPS.zip",
-            "url": "https:\/\/sourceforge.net\/projects\/legionrom\/files\/jasmine_sprout\/LegionOS-v3.7-jasmine_sprout-20210322-OFFICIAL-GAPPS.zip\/download",
-            "timestamp": "1616436559",
-            "md5sum": "5e4e4e950044b4fbd2878e2dacc74e56",
-            "size": 1082492549,
-            "version": "3.7",
-            "romtype": "OFFICIAL",
-            "changelog": "https://github.com/legionos-devices/OTA/blob/11/jasmine_sprout/changelogs_gapps.txt",
-            "maintainer_name": "Immanuel Raj"
-        }
-    ],
     "lavender": [{
             "device_name": "Redmi Note 7/7s",
             "variant": "vanilla",
