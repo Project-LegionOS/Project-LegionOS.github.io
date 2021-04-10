@@ -1,15 +1,28 @@
 {
     "LegionOS Gapps": [{
             "device_name": "LegionOS Gapps",
-            "variant": "vanilla",
+            "variant": "Vanilla",
             "filename": " LegionGApps-R-11.0-Vanilla-arm64-20210406.zip",
             "url": "https://sourceforge.net/projects/legionrom/files/Gapps/LegionGApps-R-11.0-Vanilla-arm64-20210406.zip/download",
-            "timestamp": " ",
+            "timestamp": "1617860363",
             "md5sum": "9f1acd1ce57609a1aee0cff07fbb5145",
             "size": 206569472,
             "version": "11.0(R)",
             "romtype": "OFFICIAL",
-            "changelog": "https://github.com/legionos-devices/OTA/blob/11/gapps.md",
+            "changelog": "https://github.com/legionos-devices/OTA/blob/11/gappsmin.md",
+            "maintainer_name": "CrisBalGreece"
+        },
+        {
+            "device_name": "LegionOS Gapps",
+            "variant": "Full",
+            "filename": "LegionGApps-R-11.0-Full-arm64-20210409.zip",
+            "url": "https://sourceforge.net/projects/legionrom/files/Gapps/LegionGApps-R-11.0-Full-arm64-20210409.zip/download",
+            "timestamp": "1618033163",
+            "md5sum": "732fc33929f6d42711b630d072083c0a",
+            "size": 369580835,
+            "version": "11.0(R)",
+            "romtype": "OFFICIAL",
+            "changelog": "https://github.com/legionos-devices/OTA/blob/11/gappsfull.md",
             "maintainer_name": "CrisBalGreece"
         }
     ],
