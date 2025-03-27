@@ -93,7 +93,7 @@ const generateDevice = (phone, codename) => {
 
 $(document).ready(async function () {
   const res = await fetch(
-    'https://raw.githubusercontent.com/Project-LegionOS/Project-LegionOS.github.io/master/test.json'
+    'https://raw.githubusercontent.com/legionos-devices/OTA/refs/heads/s/devices.json'
   );
   json = await res.json();
   Object.keys(json).forEach((device) =>
